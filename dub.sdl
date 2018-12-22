@@ -1,0 +1,5 @@
+name "httpparser"
+description "A minimal D application."
+authors "zoujiaqing"
+copyright "Copyright © 2018, zoujiaqing"
+license "proprietary"
